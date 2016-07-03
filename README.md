@@ -2,7 +2,8 @@
 A Show keyboard button for the GNOME Caribou on screen keyboard. 
 The button is displayed always on top at the right bottom of the screen and is useful for touchscreen users if the Caribou on screen keyboard doesn't pop up (e.g. at non Gtk3 Applications such as Firefox or Chromium).
 
-Please Note: 
+Please Note:
+
 1) To install the caribou button just copy the perl script to /usr/local/bin or any other place you wish. As prerequist you should install perl and the Gtk3 Perl module. In most cases these needed packages should be installed already!
 
 2) To autostart the caribou button you have to create a file caribou_button.desktop with the following content:
