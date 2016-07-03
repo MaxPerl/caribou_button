@@ -9,8 +9,11 @@ Please Note:
 2) To autostart the caribou button you have to create a file caribou_button.desktop with the following content:
 
 [Desktop Entry]
+
 Type=Application
+
 Name=Caribou Button
+
 Exec=/usr/local/bin/caribou_button.pl # or the path where you copied the script (see above)
 
 3) At the moment it seems that the keyboard pops only up if yo click the button with the touchscreen, not with a normal mouse. A normal mouse click opens the on screen keyboard only if the on screen keyboard is generally enabled in the Accessibility settings. I don't know why the button behaves in such manner, but the main purpose of this little script is to help touchscreen users!
