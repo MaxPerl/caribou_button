@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/App-CaribouButton.t
+lib/App/cariboubutton.pod
+scripts/cariboubutton.pl
+share/cariboubutton.desktop

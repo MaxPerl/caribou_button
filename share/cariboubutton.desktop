@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Caribou Button
+Exec=/usr/bin/cariboubutton.pl
+Name[de_DE]=Caribou Button
